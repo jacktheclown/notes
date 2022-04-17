@@ -1,15 +1,7 @@
-# Firefox Notes
+# Noter
 
-A notepad for Firefox
-
-[![CircleCI](https://circleci.com/gh/mozilla/notes/tree/master.svg?style=svg)](https://circleci.com/gh/mozilla/notes/tree/master)
-[![Available on Test Pilot](https://img.shields.io/badge/available_on-Test_Pilot-0996F8.svg)](https://testpilot.firefox.com/experiments/notes)
-> Discussion Forum: [https://discourse.mozilla.org/c/archives/test-pilot](https://discourse.mozilla.org/c/archives/test-pilot)
-
-
-## Releases
-
-The releases are packaged by CircleCI for [Android](https://app.circleci.com/pipelines/github/mozilla/notes/20/workflows/239f8590-cfae-491b-9db7-30971c73fd9a/jobs/3294/artifacts) and the [WebExtension](https://app.circleci.com/pipelines/github/mozilla/notes/20/workflows/239f8590-cfae-491b-9db7-30971c73fd9a/jobs/3292/artifacts).
+Write notes in the sidebar
+/artifacts).
 
 ## Contribute
 
@@ -42,10 +34,6 @@ You can also open the `test/index.html` file in your browser to run the automate
 ## Release
 
 See [RELEASE.md](https://github.com/mozilla/notes/blob/master/RELEASE.md) for release steps.
-
-### Localization
-
-Firefox Notes localization is managed via [Pontoon](https://pontoon.mozilla.org/), not direct pull requests to the repository. If you want to fix a typo, add a new language, or simply know more about localization, please get in touch with the [existing localization team](https://pontoon.mozilla.org/teams/) for your language, or Mozilla’s [l10n-drivers](https://wiki.mozilla.org/L10n:Mozilla_Team#Mozilla_Corporation) for guidance.
 
 ## Licenses
 
